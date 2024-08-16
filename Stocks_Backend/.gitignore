@@ -1,0 +1,4 @@
+.env
+__pycache__/
+app_copy.py
+prediction_model.h5

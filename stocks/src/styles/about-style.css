@@ -1,0 +1,15 @@
+body, input, button {
+  font-family: 'Roboto', sans-serif;
+}
+
+.about-us-text {
+    opacity: 0;
+    transform: translateY(100px);
+    transition: opacity 2s ease, transform 2s ease;
+}
+  
+.animate-text {
+    opacity: 1;
+    transform: translateY(0);
+}
+  

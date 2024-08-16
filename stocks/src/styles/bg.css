@@ -1,0 +1,15 @@
+/* background.css */
+.background-image {
+    background: url('stk3.jpg') no-repeat center center fixed;
+    background-size: cover;
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+}
+
+.black-overlay {
+    background: rgba(0, 0, 0, 0.5); /* 50% opacity black */
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+}
