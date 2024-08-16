@@ -1,1 +1,1 @@
-Stocky MArket
+Stocky Market
